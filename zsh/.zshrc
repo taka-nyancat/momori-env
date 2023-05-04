@@ -1,0 +1,1 @@
+/home/taka/.zprezto/runcoms/zshrc
