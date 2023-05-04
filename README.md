@@ -6,6 +6,8 @@
 ## neovim
 
 ## zsh
+- .zshrc
+- .zpreztorc
 
 ## apt
 
