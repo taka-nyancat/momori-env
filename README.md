@@ -4,6 +4,8 @@
 - apt software
 
 ## neovim
+
 ## zsh
+
 ## apt
 
